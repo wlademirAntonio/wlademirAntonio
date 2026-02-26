@@ -17,6 +17,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wlademirAntonio&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlademirAntonio&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%" /> </br>
   
-  ![snake gif](https://github.com/wlademirAntonio/wlademirAntonio/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ViniCosta1/ViniCosta1/blob/output/github-snake-dark.svg)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
